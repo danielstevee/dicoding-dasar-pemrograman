@@ -40,4 +40,5 @@ Menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 * Mengerjakan ujian akhir untuk mengevaluasi pemahaman selama pembelajaran.
 * Mendapatkan sertifikat kelulusan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 
+coba review
 
