@@ -23,3 +23,13 @@ Menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 * Belajar pengarsipan perangkat lunak, penulisan gaya kode, komentar pada kode, dan dokumentasi teknis aplikasi.
 * Mengerjakan ujian akhir untuk mengevaluasi pemahaman selama pembelajaran.
 * Mendapatkan sertifikat kelulusan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
+---
+**24 Agustus 2026**<br>
+Menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
+
+* Belajar dokumentasi pemrograman dan pengembangan perangkat lunak.
+* Belajar pengarsipan perangkat lunak, penulisan gaya kode, komentar pada kode, dan dokumentasi teknis aplikasi.
+* Mengerjakan ujian akhir untuk mengevaluasi pemahaman selama pembelajaran.
+* Mendapatkan sertifikat kelulusan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
+
+
