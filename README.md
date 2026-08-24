@@ -25,6 +25,14 @@ Menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 * Mendapatkan sertifikat kelulusan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 ---
 **24 Agustus 2026**<br>
+
+
+
+
+
+
+
+**25 Agustus 2026**<br>
 Menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 
 * Belajar dokumentasi pemrograman dan pengembangan perangkat lunak.
